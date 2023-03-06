@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://theamiralizadeh.github.io/interactive-rating-component)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://theamiralizadeh.github.io/interactive-rating-component)
 
 ## My process
 
